@@ -1,0 +1,48 @@
+body
+{
+    background-color: #24353f !important;
+    background-size: 100vh;
+    
+}
+*
+{
+    box-sizing: border-box;
+}
+
+.group
+{
+    background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+h1
+{
+    color: aqua;
+    margin-bottom: 2rem !important;
+}
+input
+{
+    margin-bottom: 1rem !important;
+    color: aliceblue !important;
+    border: 1px solid #ced4da;
+    background-color: transparent !important;
+}
+p
+{
+    color: white;
+}
+p a
+{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.navbar
+{
+    background-color: #24353f !important;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+
+}
+.navbar a
+{
+    color: white
+}
